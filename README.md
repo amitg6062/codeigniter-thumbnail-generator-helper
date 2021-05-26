@@ -57,9 +57,3 @@ By it's applied manipulation, becouse, as different types of thumbs may exist fo
 **But I need feature X implemented** Great! Instead forcing this helper to fit in every possibly use case, I tried to make it easyly extensible/adaptable for your custom needs. Take this as a boilerplate codebase and please share your adaptation so is useful for everybody :)
 
 
-Credits
--------
-
-This script is an adaptation of one by JR Tashjian. The original blog post can be found here: 
-http://jrtashjian.com/2009/02/image-thumbnail-creation-caching-with-codeigniter/
-
